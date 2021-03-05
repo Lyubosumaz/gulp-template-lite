@@ -1,6 +1,6 @@
 {
-    "name": "gulp-template",
-    "version": "1.0.0",
+    "name": "gulp-template-lite",
+    "version": "1.0.2",
     "description": "lite gulp template for quick tasks",
     "main": "index.js",
     "scripts": {
@@ -9,9 +9,8 @@
     "author": "Lyubosumaz",
     "license": "MIT",
     "devDependencies": {
-        "browser-sync": "^2.26.13",
+        "browser-sync": "^2.26.14",
         "gulp": "^4.0.2",
         "gulp-sass": "^4.1.0"
-    },
-    "dependencies": {}
+    }
 }
